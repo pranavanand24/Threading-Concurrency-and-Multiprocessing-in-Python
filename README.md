@@ -1,4 +1,4 @@
-# Learning and using threading and concurrency modules in python
+# Learning and using threading,concurrency and multiprocessing modules in python
 
 Definition of concurrency is simultaneous occurrence. In Python, the things that are occurring simultaneously are called by different names (thread, task, process) but at a high level, they all refer to a sequence of instructions that run in order.
 
