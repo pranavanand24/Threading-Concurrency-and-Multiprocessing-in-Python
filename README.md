@@ -1,5 +1,7 @@
 # Learning and using threading and concurrency modules in python
 
+Definition of concurrency is simultaneous occurrence. In Python, the things that are occurring simultaneously are called by different names (thread, task, process) but at a high level, they all refer to a sequence of instructions that run in order.
+
 In computing, a process is an instance of a computer program that is being executed. Any process has 3 basic components:
 - An executable program.
 - The associated data needed by the program (variables, work space, buffers, etc.)
